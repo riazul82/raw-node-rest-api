@@ -1,0 +1,30 @@
+[
+    {
+        "id": "2022-10-01T11:19:38.980Z",
+        "name": "mobile",
+        "price": "12000",
+        "quantity": "10",
+        "rating": "4.4"
+    }, 
+    {
+        "id": "2022-10-01T11:20:05.799Z",
+        "name": "tablet",
+        "price": "16000",
+        "quantity": "8",
+        "rating": "4.2"
+    }, 
+    {
+        "id": "2022-10-01T11:20:45.466Z",
+        "name": "laptop",
+        "price": "80000",
+        "quantity": "14",
+        "rating": "4.6"
+    }, 
+    {
+        "id": "2022-10-01T11:21:32.058Z",
+        "name": "camera",
+        "price": "34000",
+        "quantity": "4",
+        "rating": "4.8"
+    }
+]
